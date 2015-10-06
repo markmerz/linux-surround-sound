@@ -1,0 +1,16 @@
+v0.5 - 26.10.2011
+Minor errors were corrected.
+
+v0.4 - 25.10.2011
+Experiment with stereobase extension addition using centre speaker.
+pseudoquadroEC and abcEC modules.
+
+v0.3 - 31.08.2009
+Added runAdding methods to both methods.
+
+v0.2 - 01.10.2008
+Received ID's from Richrd Furse, LADSPA coordinator. No changes in logic.
+
+v0.1 - Initial release.
+
+
